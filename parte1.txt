@@ -1,0 +1,378 @@
+=======
+Código: 1
+Salário: R$ 3199,00 
+Desconto Imposto de Renda: R$ 639,80 
+Desconto Previdencia: R$ 127,96 
+Desconto Plano de Saúde: R$ 63,98 
+Desconto INSS: R$ 255,92
+Desconto Total: R$ 1087,66
+Salario Liquido: R$ 2111,34
+=======
+Código: 2
+Salário: R$ 2165,00 
+Desconto Imposto de Renda: R$ 433,00 
+Desconto Previdencia: R$ 86,60 
+Desconto Plano de Saúde: R$ 43,30 
+Desconto INSS: R$ 173,20
+Desconto Total: R$ 736,10
+Salario Liquido: R$ 1428,90
+=======
+Código: 3
+Salário: R$ 3415,00 
+Desconto Imposto de Renda: R$ 683,00 
+Desconto Previdencia: R$ 136,60 
+Desconto Plano de Saúde: R$ 68,30 
+Desconto INSS: R$ 273,20
+Desconto Total: R$ 1161,10
+Salario Liquido: R$ 2253,90
+=======
+Código: 4
+Salário: R$ 2455,00 
+Desconto Imposto de Renda: R$ 491,00 
+Desconto Previdencia: R$ 98,20 
+Desconto Plano de Saúde: R$ 49,10 
+Desconto INSS: R$ 196,40
+Desconto Total: R$ 834,70
+Salario Liquido: R$ 1620,30
+=======
+Código: 5
+Salário: R$ 4775,00 
+Desconto Imposto de Renda: R$ 955,00 
+Desconto Previdencia: R$ 191,00 
+Desconto Plano de Saúde: R$ 95,50 
+Desconto INSS: R$ 382,00
+Desconto Total: R$ 1623,50
+Salario Liquido: R$ 3151,50
+=======
+Código: 6
+Salário: R$ 3777,00 
+Desconto Imposto de Renda: R$ 755,40 
+Desconto Previdencia: R$ 151,08 
+Desconto Plano de Saúde: R$ 75,54 
+Desconto INSS: R$ 302,16
+Desconto Total: R$ 1284,18
+Salario Liquido: R$ 2492,82
+=======
+Código: 7
+Salário: R$ 2406,00 
+Desconto Imposto de Renda: R$ 481,20 
+Desconto Previdencia: R$ 96,24 
+Desconto Plano de Saúde: R$ 48,12 
+Desconto INSS: R$ 192,48
+Desconto Total: R$ 818,04
+Salario Liquido: R$ 1587,96
+=======
+Código: 8
+Salário: R$ 2176,00 
+Desconto Imposto de Renda: R$ 435,20 
+Desconto Previdencia: R$ 87,04 
+Desconto Plano de Saúde: R$ 43,52 
+Desconto INSS: R$ 174,08
+Desconto Total: R$ 739,84
+Salario Liquido: R$ 1436,16
+=======
+Código: 9
+Salário: R$ 3285,00 
+Desconto Imposto de Renda: R$ 657,00 
+Desconto Previdencia: R$ 131,40 
+Desconto Plano de Saúde: R$ 65,70 
+Desconto INSS: R$ 262,80
+Desconto Total: R$ 1116,90
+Salario Liquido: R$ 2168,10
+=======
+Código: 10
+Salário: R$ 2909,00 
+Desconto Imposto de Renda: R$ 581,80 
+Desconto Previdencia: R$ 116,36 
+Desconto Plano de Saúde: R$ 58,18 
+Desconto INSS: R$ 232,72
+Desconto Total: R$ 989,06
+Salario Liquido: R$ 1919,94
+=======
+Código: 11
+Salário: R$ 1892,00 
+Desconto Imposto de Renda: R$ 378,40 
+Desconto Previdencia: R$ 75,68 
+Desconto Plano de Saúde: R$ 37,84 
+Desconto INSS: R$ 151,36
+Desconto Total: R$ 643,28
+Salario Liquido: R$ 1248,72
+=======
+Código: 12
+Salário: R$ 4233,00 
+Desconto Imposto de Renda: R$ 846,60 
+Desconto Previdencia: R$ 169,32 
+Desconto Plano de Saúde: R$ 84,66 
+Desconto INSS: R$ 338,64
+Desconto Total: R$ 1439,22
+Salario Liquido: R$ 2793,78
+=======
+Código: 13
+Salário: R$ 1608,00 
+Desconto Imposto de Renda: R$ 321,60 
+Desconto Previdencia: R$ 64,32 
+Desconto Plano de Saúde: R$ 32,16 
+Desconto INSS: R$ 128,64
+Desconto Total: R$ 546,72
+Salario Liquido: R$ 1061,28
+=======
+Código: 14
+Salário: R$ 3751,00 
+Desconto Imposto de Renda: R$ 750,20 
+Desconto Previdencia: R$ 150,04 
+Desconto Plano de Saúde: R$ 75,02 
+Desconto INSS: R$ 300,08
+Desconto Total: R$ 1275,34
+Salario Liquido: R$ 2475,66
+=======
+Código: 15
+Salário: R$ 3168,00 
+Desconto Imposto de Renda: R$ 633,60 
+Desconto Previdencia: R$ 126,72 
+Desconto Plano de Saúde: R$ 63,36 
+Desconto INSS: R$ 253,44
+Desconto Total: R$ 1077,12
+Salario Liquido: R$ 2090,88
+=======
+Código: 16
+Salário: R$ 3596,00 
+Desconto Imposto de Renda: R$ 719,20 
+Desconto Previdencia: R$ 143,84 
+Desconto Plano de Saúde: R$ 71,92 
+Desconto INSS: R$ 287,68
+Desconto Total: R$ 1222,64
+Salario Liquido: R$ 2373,36
+=======
+Código: 17
+Salário: R$ 4721,00 
+Desconto Imposto de Renda: R$ 944,20 
+Desconto Previdencia: R$ 188,84 
+Desconto Plano de Saúde: R$ 94,42 
+Desconto INSS: R$ 377,68
+Desconto Total: R$ 1605,14
+Salario Liquido: R$ 3115,86
+=======
+Código: 18
+Salário: R$ 2171,00 
+Desconto Imposto de Renda: R$ 434,20 
+Desconto Previdencia: R$ 86,84 
+Desconto Plano de Saúde: R$ 43,42 
+Desconto INSS: R$ 173,68
+Desconto Total: R$ 738,14
+Salario Liquido: R$ 1432,86
+=======
+Código: 19
+Salário: R$ 4294,00 
+Desconto Imposto de Renda: R$ 858,80 
+Desconto Previdencia: R$ 171,76 
+Desconto Plano de Saúde: R$ 85,88 
+Desconto INSS: R$ 343,52
+Desconto Total: R$ 1459,96
+Salario Liquido: R$ 2834,04
+=======
+Código: 20
+Salário: R$ 1530,00 
+Desconto Imposto de Renda: R$ 306,00 
+Desconto Previdencia: R$ 61,20 
+Desconto Plano de Saúde: R$ 30,60 
+Desconto INSS: R$ 122,40
+Desconto Total: R$ 520,20
+Salario Liquido: R$ 1009,80
+=======
+Código: 21
+Salário: R$ 2289,00 
+Desconto Imposto de Renda: R$ 457,80 
+Desconto Previdencia: R$ 91,56 
+Desconto Plano de Saúde: R$ 45,78 
+Desconto INSS: R$ 183,12
+Desconto Total: R$ 778,26
+Salario Liquido: R$ 1510,74
+=======
+Código: 22
+Salário: R$ 2177,00 
+Desconto Imposto de Renda: R$ 435,40 
+Desconto Previdencia: R$ 87,08 
+Desconto Plano de Saúde: R$ 43,54 
+Desconto INSS: R$ 174,16
+Desconto Total: R$ 740,18
+Salario Liquido: R$ 1436,82
+=======
+Código: 23
+Salário: R$ 2136,00 
+Desconto Imposto de Renda: R$ 427,20 
+Desconto Previdencia: R$ 85,44 
+Desconto Plano de Saúde: R$ 42,72 
+Desconto INSS: R$ 170,88
+Desconto Total: R$ 726,24
+Salario Liquido: R$ 1409,76
+=======
+Código: 24
+Salário: R$ 4158,00 
+Desconto Imposto de Renda: R$ 831,60 
+Desconto Previdencia: R$ 166,32 
+Desconto Plano de Saúde: R$ 83,16 
+Desconto INSS: R$ 332,64
+Desconto Total: R$ 1413,72
+Salario Liquido: R$ 2744,28
+=======
+Código: 25
+Salário: R$ 4901,00 
+Desconto Imposto de Renda: R$ 980,20 
+Desconto Previdencia: R$ 196,04 
+Desconto Plano de Saúde: R$ 98,02 
+Desconto INSS: R$ 392,08
+Desconto Total: R$ 1666,34
+Salario Liquido: R$ 3234,66
+=======
+Código: 26
+Salário: R$ 2802,00 
+Desconto Imposto de Renda: R$ 560,40 
+Desconto Previdencia: R$ 112,08 
+Desconto Plano de Saúde: R$ 56,04 
+Desconto INSS: R$ 224,16
+Desconto Total: R$ 952,68
+Salario Liquido: R$ 1849,32
+=======
+Código: 27
+Salário: R$ 4464,00 
+Desconto Imposto de Renda: R$ 892,80 
+Desconto Previdencia: R$ 178,56 
+Desconto Plano de Saúde: R$ 89,28 
+Desconto INSS: R$ 357,12
+Desconto Total: R$ 1517,76
+Salario Liquido: R$ 2946,24
+=======
+Código: 28
+Salário: R$ 3277,00 
+Desconto Imposto de Renda: R$ 655,40 
+Desconto Previdencia: R$ 131,08 
+Desconto Plano de Saúde: R$ 65,54 
+Desconto INSS: R$ 262,16
+Desconto Total: R$ 1114,18
+Salario Liquido: R$ 2162,82
+=======
+Código: 29
+Salário: R$ 2645,00 
+Desconto Imposto de Renda: R$ 529,00 
+Desconto Previdencia: R$ 105,80 
+Desconto Plano de Saúde: R$ 52,90 
+Desconto INSS: R$ 211,60
+Desconto Total: R$ 899,30
+Salario Liquido: R$ 1745,70
+=======
+Código: 30
+Salário: R$ 1952,00 
+Desconto Imposto de Renda: R$ 390,40 
+Desconto Previdencia: R$ 78,08 
+Desconto Plano de Saúde: R$ 39,04 
+Desconto INSS: R$ 156,16
+Desconto Total: R$ 663,68
+Salario Liquido: R$ 1288,32
+=======
+Código: 31
+Salário: R$ 3832,00 
+Desconto Imposto de Renda: R$ 766,40 
+Desconto Previdencia: R$ 153,28 
+Desconto Plano de Saúde: R$ 76,64 
+Desconto INSS: R$ 306,56
+Desconto Total: R$ 1302,88
+Salario Liquido: R$ 2529,12
+=======
+Código: 32
+Salário: R$ 1648,00 
+Desconto Imposto de Renda: R$ 329,60 
+Desconto Previdencia: R$ 65,92 
+Desconto Plano de Saúde: R$ 32,96 
+Desconto INSS: R$ 131,84
+Desconto Total: R$ 560,32
+Salario Liquido: R$ 1087,68
+=======
+Código: 33
+Salário: R$ 1743,00 
+Desconto Imposto de Renda: R$ 348,60 
+Desconto Previdencia: R$ 69,72 
+Desconto Plano de Saúde: R$ 34,86 
+Desconto INSS: R$ 139,44
+Desconto Total: R$ 592,62
+Salario Liquido: R$ 1150,38
+=======
+Código: 34
+Salário: R$ 1734,00 
+Desconto Imposto de Renda: R$ 346,80 
+Desconto Previdencia: R$ 69,36 
+Desconto Plano de Saúde: R$ 34,68 
+Desconto INSS: R$ 138,72
+Desconto Total: R$ 589,56
+Salario Liquido: R$ 1144,44
+=======
+Código: 35
+Salário: R$ 2077,00 
+Desconto Imposto de Renda: R$ 415,40 
+Desconto Previdencia: R$ 83,08 
+Desconto Plano de Saúde: R$ 41,54 
+Desconto INSS: R$ 166,16
+Desconto Total: R$ 706,18
+Salario Liquido: R$ 1370,82
+=======
+Código: 36
+Salário: R$ 4529,00 
+Desconto Imposto de Renda: R$ 905,80 
+Desconto Previdencia: R$ 181,16 
+Desconto Plano de Saúde: R$ 90,58 
+Desconto INSS: R$ 362,32
+Desconto Total: R$ 1539,86
+Salario Liquido: R$ 2989,14
+=======
+Código: 37
+Salário: R$ 1219,00 
+Desconto Imposto de Renda: R$ 243,80 
+Desconto Previdencia: R$ 48,76 
+Desconto Plano de Saúde: R$ 24,38 
+Desconto INSS: R$ 97,52
+Desconto Total: R$ 414,46
+Salario Liquido: R$ 804,54
+=======
+Código: 38
+Salário: R$ 4498,00 
+Desconto Imposto de Renda: R$ 899,60 
+Desconto Previdencia: R$ 179,92 
+Desconto Plano de Saúde: R$ 89,96 
+Desconto INSS: R$ 359,84
+Desconto Total: R$ 1529,32
+Salario Liquido: R$ 2968,68
+=======
+Código: 39
+Salário: R$ 4825,00 
+Desconto Imposto de Renda: R$ 965,00 
+Desconto Previdencia: R$ 193,00 
+Desconto Plano de Saúde: R$ 96,50 
+Desconto INSS: R$ 386,00
+Desconto Total: R$ 1640,50
+Salario Liquido: R$ 3184,50
+=======
+Código: 40
+Salário: R$ 3555,00 
+Desconto Imposto de Renda: R$ 711,00 
+Desconto Previdencia: R$ 142,20 
+Desconto Plano de Saúde: R$ 71,10 
+Desconto INSS: R$ 284,40
+Desconto Total: R$ 1208,70
+Salario Liquido: R$ 2346,30
+=======
+Código: 41
+Salário: R$ 4997,00 
+Desconto Imposto de Renda: R$ 999,40 
+Desconto Previdencia: R$ 199,88 
+Desconto Plano de Saúde: R$ 99,94 
+Desconto INSS: R$ 399,76
+Desconto Total: R$ 1698,98
+Salario Liquido: R$ 3298,02
+=======
+Código: 42
+Salário: R$ 4508,00 
+Desconto Imposto de Renda: R$ 901,60 
+Desconto Previdencia: R$ 180,32 
+Desconto Plano de Saúde: R$ 90,16 
+Desconto INSS: R$ 360,64
+Desconto Total: R$ 1532,72
+Salario Liquido: R$ 2975,28
